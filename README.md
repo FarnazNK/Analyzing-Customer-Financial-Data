@@ -3,6 +3,7 @@
 This repository contains various data analysis projects that I have worked on. 
 
 Project 1: Credit Card Loan Acceptance Prediction 
+
 In this project, I built a classification model to predict which customers are likely to accept a personal loan offer based on their financial information. 
 The dataset used was provided by a bank, and the analysis techniques used included feature selection, logistic regression, and performance evaluation using accuracy and
 F1-score metrics. The results showed that including the new feature of total income did not improve the model's performance, and it is suggested to consider the trade-off between model performance and complexity when deciding which features to include in the model.
